@@ -1,8 +1,10 @@
 import { Elysia } from 'elysia';
 import { db } from './db';
 import { sql } from 'drizzle-orm';
+import { userRoute } from './routes/user-route';
 
 const app = new Elysia()
+  .use(userRoute)
   .get('/health', async () => {
     await db.execute(sql`select 1`);
 
