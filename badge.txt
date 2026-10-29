@@ -1,11 +1,1 @@
-badge 1
-badge sync 2
-badge sync 3
-badge sync 4
-badge sync 5
-badge sync 6
-badge sync 7
-badge sync 8
-badge sync 9
-badge sync 10
-badge sync 11
+fast badge test
