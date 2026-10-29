@@ -5,3 +5,4 @@ badge sync 4
 badge sync 5
 badge sync 6
 badge sync 7
+badge sync 8
