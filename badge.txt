@@ -1,1 +1,1 @@
-fast badge test
+python fast
