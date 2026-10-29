@@ -7,3 +7,4 @@ badge sync 6
 badge sync 7
 badge sync 8
 badge sync 9
+badge sync 10
